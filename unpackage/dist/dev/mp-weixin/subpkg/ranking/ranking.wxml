@@ -1,0 +1,1 @@
+<view><view class="bg"><block wx:for="{{pai}}" wx:for-item="item" wx:for-index="__i0__" wx:key="id"><view class="paiitem"><view class="paileft"><view>{{item.rank}}</view><text style="margin-left:20rpx;">{{item.username}}</text></view><view>{{''+item.coinCount+''}}</view></view></block></view></view>

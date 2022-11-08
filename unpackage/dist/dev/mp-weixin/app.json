@@ -1,0 +1,72 @@
+{
+    "pages": [
+        "pages/index/index",
+        "pages/system/system",
+        "pages/interlocution/interlocution",
+        "pages/project/project",
+        "pages/user/user",
+        "pages/Tidetail/Tidetail"
+    ],
+    "subPackages": [
+        {
+            "root": "subpkg",
+            "pages": [
+                "addshare/addshare",
+                "share/share",
+                "jifen/jifen",
+                "ranking/ranking",
+                "detail/detail",
+                "search/search",
+                "login/login",
+                "collection/collection",
+                "enroll/enroll",
+                "searchlist/searchlist",
+                "my/my"
+            ]
+        }
+    ],
+    "window": {
+        "navigationBarTextStyle": "black",
+        "navigationBarTitleText": "首页",
+        "navigationBarBackgroundColor": "#dd544e",
+        "backgroundColor": "#F8F8F8"
+    },
+    "tabBar": {
+        "color": "#9c9c9c",
+        "selectedColor": "#c75b58",
+        "list": [
+            {
+                "pagePath": "pages/index/index",
+                "text": "首页",
+                "iconPath": "static/tabbarIcon/home.png",
+                "selectedIconPath": "static/tabbarIcon/home_selected.png"
+            },
+            {
+                "pagePath": "pages/system/system",
+                "text": "体系",
+                "iconPath": "static/tabbarIcon/system.png",
+                "selectedIconPath": "static/tabbarIcon/system_selected.png"
+            },
+            {
+                "pagePath": "pages/interlocution/interlocution",
+                "text": "问答",
+                "iconPath": "static/tabbarIcon/project.png",
+                "selectedIconPath": "static/tabbarIcon/project_selected.png"
+            },
+            {
+                "pagePath": "pages/project/project",
+                "text": "项目",
+                "iconPath": "static/tabbarIcon/account.png",
+                "selectedIconPath": "static/tabbarIcon/account_selected.png"
+            },
+            {
+                "pagePath": "pages/user/user",
+                "text": "我的",
+                "iconPath": "static/tabbarIcon/nav.png",
+                "selectedIconPath": "static/tabbarIcon/nav_selected.png"
+            }
+        ]
+    },
+    "usingComponents": {},
+    "sitemapLocation": "sitemap.json"
+}

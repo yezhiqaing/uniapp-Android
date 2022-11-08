@@ -1,0 +1,4 @@
+<view class="my"><text class="title">关于玩Android小程序</text><view class="topmy">Hi！欢迎使用玩Android小程序！</view><view class="fis">该项目是我个人基于鸿洋大神的玩android开放API开发的一款高颜值的微信小程序。这个项目拥有漂亮的界面和实用的功能,每天推荐20~30篇优质文章的站点
+		如果你有一些更好的想法或建议，可以在GitHub里提交给我，我很欢迎大家一起维护。
+		
+		由于web-view引入外网的文章配置需要企业才能设置业务域名才能正常打开文章</view><text class="ye">有什么问题也可以加我个人微信,记得备注来意</text><image src="../../static/ye.jpg" mode="aspectFit"></image><text class="daohao">永远相信美好的事件即将发生</text></view>

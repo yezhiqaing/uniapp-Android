@@ -1,0 +1,1 @@
+<view><block wx:if="{{collection.length!=0}}"><detai-list vue-id="00598f4c-1" article="{{collection}}" data-event-opts="{{[['^incremet',[['incremet']]]]}}" bind:incremet="__e" bind:__l="__l"></detai-list></block><block wx:else><view class="model"><image src="../../static/shuji.jpg" mode></image></view></block></view>

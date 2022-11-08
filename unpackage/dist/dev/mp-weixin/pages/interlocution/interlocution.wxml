@@ -1,0 +1,1 @@
+<view><detai-list vue-id="1d0be1f4-1" title="ok" article="{{wenzlist}}" data-event-opts="{{[['^incremet',[['incremet']]]]}}" bind:incremet="__e" bind:__l="__l"></detai-list></view>

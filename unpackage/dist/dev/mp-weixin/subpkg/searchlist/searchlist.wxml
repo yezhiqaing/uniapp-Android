@@ -1,0 +1,1 @@
+<view><detai-list vue-id="5937484c-1" article="{{sarlist}}" data-event-opts="{{[['^incremet',[['incremet']]]]}}" bind:incremet="__e" bind:__l="__l"></detai-list></view>
