@@ -105,6 +105,8 @@
 							});
 
 
+						}else{
+							uni.$showMsg({title:a.errorMsg,icon:"none"})
 						}
 
 					}
